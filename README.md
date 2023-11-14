@@ -24,3 +24,12 @@
 # Enlaces Externos
 
 [Página de Tecnolochicas](https://tecnolochicas.mx/)
+
+# Imágenes
+![Logo de Tecnolochicas](https://tecnolochicas.mx/public/images/tecnolochicas-logo.png)
+
+`<section class="main-buttons">`
+
+**Así se ponen las palabras en negrita**
+_Así se ponen las palabras en cursiva_
+**_Así se ponen las palabras en negrita y cursiva_**
